@@ -11,5 +11,5 @@
 ###### รับผิดชอบในส่วน Paragraphs 5-8
 
 <figure>
-<img src = "./media/ภีม.jpg" width ="250" height="250" >
+<img src = "./media/ภีม.JPG" width ="250" height="250" >
 </figure>
