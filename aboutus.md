@@ -32,3 +32,10 @@
 <figure>
     <img src = "./media/moth.png" width ="250" height="250" >
 </figure>
+
+# Thanakorn Sajanadamrong 633021138-3 sec03
+## Username : ThanakornCS
+###### รับผิดชอบในส่วน Paragraphs 19-20
+<figure>
+    <img src = "./media/เฟิร์ส.jpg" width ="250" height="250" >
+</figure>
