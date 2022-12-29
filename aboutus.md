@@ -3,5 +3,5 @@
 ###### รับผิดชอบในส่วน Paragraphs 1-4
 
 <figure>
-<img src = "./media/ป๋อ.jpg">
+<img src = "./media/ป๋อ.jpg" width ="250" height="250" >
 </figure>
