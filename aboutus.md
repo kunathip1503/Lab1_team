@@ -1,7 +1,15 @@
 # Kunathip Padthaisong sec03
-## kunathip1503
+## Username : kunathip1503
 ###### รับผิดชอบในส่วน Paragraphs 1-4
 
 <figure>
 <img src = "./media/ป๋อ.jpg" width ="250" height="250" >
+</figure>
+
+# Phumtawan lunanut 633021152-9 sec03
+## Username : KoonpheemkungZ
+###### รับผิดชอบในส่วน Paragraphs 5-8
+
+<figure>
+<img src = "./media/ภีม.jpg" width ="250" height="250" >
 </figure>
